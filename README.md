@@ -1,2 +1,2 @@
-# Static-portfolio
-Static portfolio website 
+# portifolio
+Please download the starter pack of portifolio
